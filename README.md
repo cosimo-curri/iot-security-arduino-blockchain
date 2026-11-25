@@ -2,7 +2,7 @@
 
 An educational IoT-security prototype that encrypts a temperature reading on an Arduino Uno and records the verified measurement in a Node.js/MongoDB proof-of-work blockchain.
 
-Developed for the *IoT Security* course (Academic Year **2024–2025**) during an Erasmus+ exchange at **[Poznan University of Technology](https://put.poznan.pl/en)** (Poland), as part of the **Computer Engineering** degree program at **[Politecnico di Bari](https://www.poliba.it/en/laurea-magistrale-ingegneria-informatica)** (Italy).
+Developed for the *IoT Security* course (Academic Year **2024–2025**) during an Erasmus+ exchange at **[Poznan University of Technology](https://put.poznan.pl/en)** (Poland), as part of the **Master's Degree in Computer Engineering**, **Artificial Intelligence and Data Science** curriculum, at **[Politecnico di Bari](https://www.poliba.it/en/laurea-magistrale-ingegneria-informatica)** (Italy).
 
 **Scope:** this repository demonstrates an embedded-to-server cryptographic workflow, not a production-grade blockchain, authenticated IoT deployment, or continuous sensor-monitoring platform.
 
